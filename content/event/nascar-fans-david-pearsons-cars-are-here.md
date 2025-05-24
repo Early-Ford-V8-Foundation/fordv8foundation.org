@@ -6,6 +6,7 @@ description: "The Pearson family has graciously allowed The Early Ford V-8
 start_date: Friday May 23
 end_date: Dec. 2025
 date: 2025-05-22T15:53:00.000Z
+video: https://www.youtube.com/embed/YeETwOrELDA
 time: 9:00
 image: /img/dave-pearson-car.jpg
 venue: "The Early Ford V-8 Museum "

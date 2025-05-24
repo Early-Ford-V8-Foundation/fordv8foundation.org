@@ -8,9 +8,12 @@ layout: base.njk
     <p class="sub_hero mt-5">
      {{metadata.title}}
     </p>
-    <h1>
+    <h1 class="mb-3">
     <a href="{{page.url or metadata.url}}" class="text-white">{{title}}</a>
     </h1>
+{% if video %}<div class="ratio ratio-16x9 rounded">
+  <iframe src="{{video}}" title="{{title}}" class="rounded" allowfullscreen></iframe>
+</div>{% endif %}
   </div>
 </div>
 </div>
