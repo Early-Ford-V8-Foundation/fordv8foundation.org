@@ -1,9 +1,9 @@
 ---
-title: 1949 Ford Tudor Sedan 
-description: "Adopted by Karl D. Gaus, OH"
-image: /img/adopt/49-tudor.webp
+title: 1941 Mercury Super Deluxe
+description: "Donated by Joe Floyd Estate, SD , Adopted by Douglas J. Skinner, SC"
+image: /img/adopt/1941 Mercury super deluxe.webp
 status: has been adopted
-date: 2025-02-26
+date: 2025-02-24
 button: 
  text: Download The Adopt-A-Ford Form
  url: /pdf/Adopt-A-Ford.pdf

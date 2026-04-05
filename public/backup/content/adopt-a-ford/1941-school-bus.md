@@ -1,9 +1,9 @@
 ---
-title: 1949 Ford Tudor Sedan 
-description: "Adopted by Karl D. Gaus, OH"
-image: /img/adopt/49-tudor.webp
+title: 1941 School Bus
+description: Donated by Peter McLaughlin-NH Adopted by Bill Randolph-OH
+image: /img/adopt/41-school-bus.webp
 status: has been adopted
-date: 2025-02-26
+date: 2025-02-24
 button: 
  text: Download The Adopt-A-Ford Form
  url: /pdf/Adopt-A-Ford.pdf

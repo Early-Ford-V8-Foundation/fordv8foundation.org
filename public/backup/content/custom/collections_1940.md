@@ -3,7 +3,7 @@ title: 1940s Collections Gallery
 description: All 1940s - Sneak Peek at Our Collections
 layout: design/gallery.njk
 pagination:
-  data: collections.1940s
+  data: collections.collections1940
   size: 50
   reverse: true
 testdata:

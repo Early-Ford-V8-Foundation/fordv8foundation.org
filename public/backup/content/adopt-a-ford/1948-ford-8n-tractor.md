@@ -1,9 +1,9 @@
 ---
-title: 1949 Ford Tudor Sedan 
-description: "Adopted by Karl D. Gaus, OH"
-image: /img/adopt/49-tudor.webp
+title: 1948 Ford 8N Tractor
+description: Donated by Martin Baumann, MI Adopted by Dave & Debbie Sharp, IN
+image: /img/adopt/48-8n-tractor.webp
 status: has been adopted
-date: 2025-02-26
+date: 2025-02-24
 button: 
  text: Download The Adopt-A-Ford Form
  url: /pdf/Adopt-A-Ford.pdf

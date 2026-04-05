@@ -1,7 +1,7 @@
 ---
-title: 1949 Ford Tudor Sedan 
-description: "Adopted by Karl D. Gaus, OH"
-image: /img/adopt/49-tudor.webp
+title: 1946 Mercury Coupe
+description: Donated by Frank Corey-NM
+image: /img/adopt/46-merc-cpe.webp
 status: has been adopted
 date: 2025-02-26
 button: 
@@ -11,7 +11,6 @@ show_event_article: true
 show_ford_store: true
 show_partner: false
 tags: 
- - adopted
  - 1940s
 ---
 

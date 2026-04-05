@@ -1,17 +1,17 @@
 ---
-title: 1949 Ford Tudor Sedan 
-description: "Adopted by Karl D. Gaus, OH"
-image: /img/adopt/49-tudor.webp
+title: 1933 Ford 4 Cylinder Tudor Sedan
+description: Donated in Memory of Terry Oberer
+image: /img/adopt/33-tudor-4cyl.webp
 status: has been adopted
-date: 2025-02-26
+date: 2025-03-01
 button: 
  text: Download The Adopt-A-Ford Form
  url: /pdf/Adopt-A-Ford.pdf
 show_event_article: true
 show_ford_store: true
+show_motors: false
 show_partner: false
 tags: 
- - adopted
- - 1940s
+ - 1930s
 ---
 
