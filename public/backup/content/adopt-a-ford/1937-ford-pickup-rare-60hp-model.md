@@ -1,9 +1,9 @@
 ---
-title: 1949 Ford Tudor Sedan 
-description: "Adopted by Karl D. Gaus, OH"
-image: /img/adopt/49-tudor.webp
+title: 1937 Ford Pickup Rare 60HP Model
+description: Donated by David Townes - KY
+image: /img/adopt/37-pickup.webp
 status: has been adopted
-date: 2025-02-26
+date: 2025-02-27
 button: 
  text: Download The Adopt-A-Ford Form
  url: /pdf/Adopt-A-Ford.pdf
@@ -11,7 +11,6 @@ show_event_article: true
 show_ford_store: true
 show_partner: false
 tags: 
- - adopted
- - 1940s
+ - 1930s
 ---
 
