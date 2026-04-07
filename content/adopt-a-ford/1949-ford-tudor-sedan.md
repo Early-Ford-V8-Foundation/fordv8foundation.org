@@ -1,6 +1,6 @@
 ---
-title: 1949 Ford Tudor Sedan 
-description: "Adopted by Karl D. Gaus, OH"
+title: 1949 Ford Deluxe Tudor Sedan
+description: "Donated by David Koehler, OH. Adopted by Karl D. Gaus, OH"
 image: /img/adopt/49-tudor.webp
 status: has been adopted
 date: 2025-02-26
