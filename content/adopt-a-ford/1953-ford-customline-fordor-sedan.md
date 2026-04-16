@@ -1,9 +1,9 @@
 ---
-title: 1951 Mercury Sport Sedan
-description: Donated by Frank Corey-NM
-image: /img/adopt/IMG_6093.jpeg
-date: 2025-02-25
-status: has been adopted
+title: 1953 Ford Customline Fordor Seda
+description:  donated by Frank Corey, NM 
+image: /img/adopt/IMG_6073.jpeg
+status: Available for adoption
+date: 2025-04-16
 button: 
  text: Download The Adopt-A-Ford Form
  url: /pdf/Adopt-A-Ford.pdf

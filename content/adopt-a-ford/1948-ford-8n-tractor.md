@@ -1,7 +1,7 @@
 ---
 title: 1948 Ford 8N Tractor
 description: Donated by Martin Baumann, MI Adopted by Dave & Debbie Sharp, IN
-image: /img/adopt/48-8n-tractor.webp
+image: /img/adopt/IMG_6107.jpeg
 status: has been adopted
 date: 2025-02-24
 button: 

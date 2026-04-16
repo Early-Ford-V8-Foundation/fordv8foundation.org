@@ -1,9 +1,9 @@
 ---
-title: 1946 Mercury Coupe
-description: Donated by Frank Corey-NM
-image: /img/adopt/IMG_6097.jpeg
-status: has been adopted
-date: 2025-02-26
+title: 1941 Ford Fire Truck
+description: donated by Ben Weldon, IN 
+image: /img/adopt/IMG_6070.jpeg
+status: Available for adoption
+date: 2025-04-16
 button: 
  text: Download The Adopt-A-Ford Form
  url: /pdf/Adopt-A-Ford.pdf
