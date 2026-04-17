@@ -1,9 +1,9 @@
 ---
-title: 1946 Mercury Coupe
-description: Donated by Frank Corey-NM
-image: /img/adopt/IMG_6097.jpeg
-status: has been adopted
-date: 2025-02-26
+title: 1946 Ford Super DeLuxe Sedan Coupe
+description: donated by Ted Ristau, CT
+image: /img/adopt/IMG_6072.jpeg
+status: Available for adoption
+date: 2025-04-16
 button: 
  text: Download The Adopt-A-Ford Form
  url: /pdf/Adopt-A-Ford.pdf

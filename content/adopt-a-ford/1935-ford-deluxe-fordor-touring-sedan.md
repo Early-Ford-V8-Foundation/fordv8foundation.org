@@ -1,9 +1,9 @@
 ---
-title: 1937 Ford Pickup Rare 60HP Model
-description: Donated by David Townes - KY
-image: /img/adopt/37-pickup.webp
-status: has been adopted
-date: 2025-02-27
+title: 1935 Ford Deluxe Fordor Touring Sedan
+description: "donated by Bob Sowinski, SC "
+image: /img/adopt/deluxes.png
+status: Available for adoption
+date: 2026-04-16
 button: 
  text: Download The Adopt-A-Ford Form
  url: /pdf/Adopt-A-Ford.pdf

@@ -1,7 +1,7 @@
 ---
 title: 1950 Ford Crestliner
 description: Donated by Fred Gerber, AZ Adopted by Fred Gerber, AZ
-image: /img/adopt/50-crestliner.webp
+image: /img/adopt/IMG_6095.jpeg
 status: has been adopted
 date: 2025-02-24
 button: 
