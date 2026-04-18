@@ -1,5 +1,5 @@
 ---
-title: 1953 Ford Customline Fordor Seda
+title: 1953 Ford Customline Fordor Sedan
 description:  donated by Frank Corey, NM 
 image: /img/adopt/IMG_6073.jpeg
 status: Available for adoption

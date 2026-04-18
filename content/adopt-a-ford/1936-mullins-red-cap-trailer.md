@@ -1,5 +1,5 @@
 ---
-title: 1936 Mullins Red Cap Traimler
+title: 1936 Mullins Red Cap Trailer
 description: Donated by Bob & Judy Parmelee-TX
 image: /img/adopt/36-mullins.webp
 status: has been adopted
