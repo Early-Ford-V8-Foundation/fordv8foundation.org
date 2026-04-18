@@ -1,5 +1,5 @@
 ---
-title: 1941 Mercury Super Deluxe
+title: 1941 Ford Super Deluxe
 description: "Donated by Joe Floyd Estate, SD , Adopted by Douglas J. Skinner, SC"
 image: /img/adopt/1941 Mercury super deluxe.webp
 status: has been adopted
