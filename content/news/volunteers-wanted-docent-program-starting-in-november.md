@@ -1,5 +1,5 @@
 ---
-title: "Lot's Going on Sunday, June 17! Car Show, Sunday Talk and Volunteer
+title: "Lot's Going on Sunday, June 14! Car Show, Sunday Talk and Volunteer
   Information Meeting! "
 description: >-
   Car Show 1:00-3:00 ! 
@@ -16,7 +16,7 @@ show_ford_store: false
 show_motors: false
 show_partner: false
 ---
-Sunday June 17 is the day to be at the Early Ford V-8 Museum! 
+Sunday June 14 is the day to be at the Early Ford V-8 Museum! 
 
 Tour the beautiful museum at 11:00 and admire the Fords, Mercurys, Lincolns, Tractors and Commercial Trucks! 
 
@@ -24,11 +24,9 @@ Then come in the library at noon and learn all about the volunteer opportunities
 
 At 1:00 sit in on the Sunday Talk with David Sprowl, and learn more about Ford Motor Company's designers and the Lincoln Zephyr story!
 
-Then on your way out, Enjoy the car Cruise-in in the parking lot for free! Hot dogs, pop and chips for total of $3 in J. Windle Event Center! Great time to check out the event center for YOUR future events! 
+Then on your way out, enjoy the car Cruise-in in the parking lot for free! Hot dogs, pop and chips for total of $3 in J. Windle Event Center! The beverage truck "Dirty Splash Retreat" will be back again serving fantastic colas with flavored syrups, lemon shake-ups, and iced coffees, as well as fruity concoctions! And... what a Great time to check out the beautiful J. Windle Event Center for YOUR future events! 
 
-
-
-There are many ways to be a volunteer at the museum! 
+Have you thought about doing something new to meet new people? Consider volunteering at the museum and helping with events! There are many ways to be a volunteer at the museum! 
 
 One way is to be a docent - a fancy word for "tour guide", some might say. If you enjoy meeting new people from around the country and the world and have an interest in the classic Fords from 1932-1953, give this idea some time to brew. You do not need to be an expert on Henry Ford or the automobiles to be a docent. We will give you the tools you need to feel confident in sharing information and elevating the experience of our guests. 
 
@@ -36,7 +34,7 @@ Other ways to volunteer include utilizing skills and experiences you already hav
 
 There is no minimum time required. You volunteer when you want! It's a great way to meet new people and make new friends in a beautiful and calm environment. 
 
-If you are interested in learning more, please plan to attend our Introduction Meeting/Coffee on Sunday June 17 at noon in the museum library. You will meet Scott Campbell, one of our board members, and Jan Jones, our marketing and events manager.  
+If you are interested in learning more, please plan to attend our Introduction Meeting/Coffee on Sunday June 14 at noon in the museum library. You will meet Scott Campbell, one of our board members, and Jan Jones, our marketing and events manager.  
 
 You do not have to RSVP, but if you know you would like to come, you can let Jan know at jan@fordv8foundation.org or call the office at 260-927-8022. 
 
