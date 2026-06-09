@@ -1,6 +1,6 @@
 ---
 title: Jan Jones
-description: "Marketing and Events Director"
+description: Marketing and Events Manager
 date: 2022-02-07
 image: /img/staff/jan-jones.jpg
 social: 

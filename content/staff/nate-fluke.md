@@ -1,6 +1,6 @@
 ---
 title: Nate Fluke
-description: "Chief Operations Officer"
+description: "Marketing and Events Manager "
 date: 2022-02-07
 image: /img/staff/EFV8FM-Board-Members-and-Staff-Head-Shots-A113.webp
 social: 

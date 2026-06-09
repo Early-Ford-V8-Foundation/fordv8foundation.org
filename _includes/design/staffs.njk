@@ -3,31 +3,48 @@ layout: base.njk
 ---
 {% include "partials/header.njk" %}
 <section class="container-fluid">
-<div class="row justify-content-center">
-{% for post in pagination.items %}
-<div class="p-3 p-md-5 col-md-4 text-center mt-5">
-<div class="bg-light rounder shadow-sm opacity-95 row zoom non">
-<a href="{{post.url}}" title="{{post.data.title}}"><img class="img-fluid lazy img-staffs" alt="{{post.data.title}}" data-src="{{post.data.image or metadata.image}}"/></a>
-<div class="p-3">
-<h3 class="text-desc"><a href="{{post.url}}">{{post.data.title}}</a></h3>
-<p class="text-secondary text-desc">{{post.data.description}}
-<!--
-{% if post.data.social %}</br>{% for s in post.data.social %}<a href="{{s.url}}" title="{{s.title}}"><i class="{{s.icon}} me-3 mt-1"></i></a>{% endfor %}{% endif %}
--->
-</p>
-</div>
-</div>
-</div>
-{% endfor %}
-<div class="row p-3 mt-3 mb-3">
-<div class="col-md-6 p-3">
-{% if pagination.href.previous %}<a class="btn btn-primary text-uppercase col-12 p-3" href="{{ pagination.href.previous }}">← Previous</a>{% endif %}
-</div>
-<div class="col-md-6 p-3 text-end">
-{% if pagination.href.next %}<a class="btn btn-primary text-uppercase col-12 p-3" href="{{ pagination.href.next }}">Next →</a>{% endif %}
-</div>
-</div>
-</div>
+  <div class="row justify-content-center">
+    {# Row khusus untuk leader #}
+    {% for post in pagination.items %}
+      {% if post.data.leader %}
+        <div class="p-3 p-md-5 col-md-4 text-center mt-5">
+          <div class="bg-light rounder shadow-sm opacity-95 row zoom non">
+            <a href="{{post.url}}"><img class="img-fluid lazy img-staffs" alt="{{post.data.title}}" data-src="{{post.data.image or metadata.image}}"/></a>
+            <div class="p-3">
+              <h3 class="text-desc"><a href="{{post.url}}">{{post.data.title}}</a></h3>
+              <p class="text-secondary text-desc">{{post.data.description}}</p>
+            </div>
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <div class="row justify-content-center">
+    {# Row khusus untuk non-leader #}
+    {% for post in pagination.items %}
+      {% if not post.data.leader %}
+        <div class="p-3 p-md-5 col-md-4 text-center mt-5">
+          <div class="bg-light rounder shadow-sm opacity-95 row zoom non">
+            <a href="{{post.url}}"><img class="img-fluid lazy img-staffs" alt="{{post.data.title}}" data-src="{{post.data.image or metadata.image}}"/></a>
+            <div class="p-3">
+              <h3 class="text-desc"><a href="{{post.url}}">{{post.data.title}}</a></h3>
+              <p class="text-secondary text-desc">{{post.data.description}}</p>
+            </div>
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <div class="row p-3 mt-3 mb-3">
+    <div class="col-md-6 p-3">
+      {% if pagination.href.previous %}<a class="btn btn-primary text-uppercase col-12 p-3" href="{{ pagination.href.previous }}">← Previous</a>{% endif %}
+    </div>
+    <div class="col-md-6 p-3 text-end">
+      {% if pagination.href.next %}<a class="btn btn-primary text-uppercase col-12 p-3" href="{{ pagination.href.next }}">Next →</a>{% endif %}
+    </div>
+  </div>
 </section>
 {% include "partials/motors.njk" %}
 {% include "partials/event_n_article.njk" %}
