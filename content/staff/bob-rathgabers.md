@@ -1,23 +1,26 @@
 ---
-title: Mariah Grim
-description: Office Assistant
-date: 2022-02-06
-image: /img/staff/Mariah.webp
+title: Bob Rathgaber's
+description: Museum Director 
+date: 2026-06-09
+leader: true
+image: /img/staff/bob-rathgabers.webp
 social: 
- - title: Mariah Facebook
+ - title: Denise Facebook
    icon: fab fa-facebook
    url: https://facebook.com
- - title: Mariah Instagram
+ - title: Denise Instagram
    icon: fab fa-instagram
    url: https://instagram.com
- - title: Mariah Linkedin
+ - title: Denise Linkedin
    icon: fab fa-linkedin
    url: https://linkedin.com
 button:
- title: Send Mariah Message
- url: "Mariah@fordv8foundation.org"
+ title: 
+ url: ""
 show_event_article: true
 show_ford_store: true
 show_partner: true
+show_motors: true
 show_nearby: true
 ---
+
