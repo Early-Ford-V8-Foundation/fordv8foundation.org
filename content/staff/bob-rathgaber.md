@@ -1,6 +1,6 @@
 ---
 title: Bob Rathgaber
-description: Museum Director 
+description: Executive Museum Director 
 date: 2026-06-09
 leader: true
 image: /img/staff/bob-rathgabers.webp
