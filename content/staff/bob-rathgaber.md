@@ -1,5 +1,5 @@
 ---
-title: Bob Rathgaber's
+title: Bob Rathgaber
 description: Museum Director 
 date: 2026-06-09
 leader: true
