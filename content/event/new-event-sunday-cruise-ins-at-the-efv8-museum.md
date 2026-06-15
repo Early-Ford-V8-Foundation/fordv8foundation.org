@@ -1,6 +1,6 @@
 ---
 title: "Sunday Cruise-ins at the EFV8 Museum! "
-description: "Once a month, on a Sunday from noon-3;00, come out the EFV8
+description: "Once a month, on a Sunday from noon-3:00, come out to the EFV8
   Museum's Sunday Cruise-in to see all makes and models of cars, enjoy a hot dog
   combo and beverage from Dirty Splash Retreat beverage trailer, enjoy visiting
   with other car enthusiasts, and tour the museum! A different activity is
