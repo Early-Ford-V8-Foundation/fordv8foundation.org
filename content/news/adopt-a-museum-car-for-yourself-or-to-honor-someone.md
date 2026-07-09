@@ -6,7 +6,7 @@ description: "A fun way to honor someone, or give a unique gift, while
   vehicle's insurance and maintenance for the year.  Check out the available
   vehicles! "
 date: 2026-06-15T18:08:00.000-04:00
-image: /img/adoptable-cars-1-.jpg
+image: /img/adopt-a-ford-update-.jpg
 show_event_article: true
 show_ford_store: true
 show_motors: true
