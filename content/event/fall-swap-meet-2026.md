@@ -15,6 +15,14 @@ show_ford_store: false
 show_motors: false
 show_partner: false
 ---
-Registration for this event is not open yet - more details will be forthcoming! 
+Registration for this event is OPEN - call 260-927-8022 to reserve your spot, even if you had a spot last year. 
+
+Get one free '20x30' spot with a membership of $25 for one year or $60 for 3 years. 
+
+Additional spots are $50 each. 
+
+Car Corral spots and indoor spots are $50 each, limited, and require a foundation membership as well. 
+
+Letters of confirmation will be sent out around the second week of August. Set up day is Wednesday, Sept. 2.
 
 Don't miss this major part of the ACD Festival in Auburn as the town celebrates the American Automobile Labor Day weekend!
