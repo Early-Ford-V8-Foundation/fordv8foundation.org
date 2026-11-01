@@ -18,4 +18,4 @@ Help fill the Food Panty at the County Line Church of God in Auburn, IN for the 
 
 Many of our visitors are travelers who may not know about this endeavor, or perhaps a guest is local, forgot a canned good (or were not aware). NO WORRIES. Pay the regular admission price, but we will donate 1/2 that admission price to the food pantry. 
 
-Thank you for your kindness in helping others! This is a win for everyone! Feel good about helping while you enjoy this beautiful museum!
+Thank you for your kindness in helping others! This is a win for everyone! Feel good about helping others while you enjoy this beautiful museum!
