@@ -8,7 +8,6 @@ import markdownIt from 'markdown-it';
 import markdownItAnchor from "markdown-it-anchor";
 import pluginFilters from "./_config/filters.js";
 import pluginCodes from "./_config/codes.js";
-import embedEverything from "eleventy-plugin-embed-everything";
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
@@ -106,7 +105,6 @@ export default async function(eleventyConfig) {
 			slugify: eleventyConfig.getFilter("slugify")
 		});
 	});
-	eleventyConfig.addPlugin(embedEverything);
 	eleventyConfig.addPlugin(pluginNavigation);
 	eleventyConfig.addPlugin(HtmlBasePlugin);
 	eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
