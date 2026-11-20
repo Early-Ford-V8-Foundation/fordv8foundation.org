@@ -1,7 +1,11 @@
 ---
 title: "Free - Christmas at the Rotunda! Sat. Dec 12, 1-5:00 "
 description: "This year's Christmas Event with even MORE features will NOT
-  disappoint! Bring your loved ones out to this FREE event! "
+  disappoint! Bring your loved ones out to this FREE event!   There will be a
+  special PREVIEW NIGHT at regular admission cost: Cars by Candlelight on Thurs.
+  Dec. 10th  5:30-7:00 !  This will be a a more peaceful, calmer special event
+  where the museum is only lit by Christmas lights and soft Christmas music in
+  the background. A new way to experience the museum! "
 start_date: Saturday Dec. 12
 end_date: Saturday Dec 12
 date: 2026-11-01T01:20:00.000-04:00
@@ -14,9 +18,9 @@ show_ford_store: false
 show_motors: false
 show_partner: false
 ---
-This Christmas event has it all to make your holiday season even more special! 
+This Christmas event has it all to make your holiday season even more special!  Dec. 12, Saturday, will be the big event!  Thurs. Dec. 10th, 5:30-7:00, at regular admission price, will be a brand-new event: Cars by Candlelight - a more calm, peaceful experience with the museum only lit by Christmas lights and soft Christmas music playing as you stroll through the exhibits. Plan on experiencing both! 
 
-Yes, Santa will arrive! 
+As for the big Saturday, Dec. 12 event: Yes, Santa will arrive! 
 
 Yes, there will be live music as the Auburn Community Band, the Dekalb County Orchestra AND the Dekalb High School Choir fill the museum with the beautiful sounds of Christmas carols! 
 
